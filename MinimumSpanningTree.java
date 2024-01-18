@@ -1,6 +1,6 @@
 import java.util.*; 
  
-class PrimAlgorithm { 
+class MinimumSpanningTree { 
  
     static class Edge { 
         int source, destination, weight; 
